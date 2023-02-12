@@ -1,0 +1,15 @@
+{
+  "name": "someApp",
+  "short_name": "app",
+  "lang": "en-US",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#233b69",
+  "icons": [
+{
+  "src": "/images/image.png",
+  "sizes": "167x167",
+  "type": "image/png"
+}
+  ]
+}
