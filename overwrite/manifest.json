@@ -1,0 +1,16 @@
+{
+  "name": "My Waktaverse",
+  "short_name": "My Waktaverse",
+  "lang": "ko-KR",
+  "start_url": "/mywaktaverse/",
+  "display": "standalone",
+  "theme_color": "#43ad3b",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/mywaktaverse/images/image.png",
+      "sizes": "167x167",
+      "type": "image/png"
+    }
+  ]
+}
