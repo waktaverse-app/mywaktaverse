@@ -1,15 +1,16 @@
 {
-  "name": "someApp",
-  "short_name": "app",
-  "lang": "en-US",
-  "start_url": "/index.html",
+  "name": "My Waktaverse",
+  "short_name": "My Waktaverse",
+  "lang": "ko-KR",
+  "start_url": "/mywaktaverse/",
   "display": "standalone",
-  "theme_color": "#233b69",
+  "theme_color": "#43ad3b",
+  "background_color": "#ffffff",
   "icons": [
-{
-  "src": "/images/image.png",
-  "sizes": "167x167",
-  "type": "image/png"
-}
+    {
+      "src": "/mywaktaverse/images/image.png",
+      "sizes": "167x167",
+      "type": "image/png"
+    }
   ]
 }
