@@ -1,4 +1,4 @@
-const CACHE = 'cache-v1';
+const CACHE = 'cache-v2';
 
 const PRECACHE_URLS = [
   'index.html',
